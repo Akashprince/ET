@@ -1,1 +1,2 @@
 Hello , l master.
+hi this merge conflict test.
